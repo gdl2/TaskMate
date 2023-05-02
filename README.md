@@ -1,6 +1,5 @@
+Abstract: This research paper explores the potential of large language models (LLMs) in automating computer tasks and accelerating workflows. The study implements TaskMate, a ChatGPT bot, to demonstrate how prompting techniques can be used to teach LLMs specific workflows. By preprocessing HTML input for a browser automation tool, the study also shows how significant improvements in performance and cost efficiency can be achieved. Although TaskMate's success rate on the terminal task was limited, the research highlights the importance of prompt design and few-shot examples. Despite current limitations, the study suggests that LLMs hold great promise in assisting users with a wide range of tasks. Future work could explore ways to reduce completion time and inference costs while investigating the benefits of increasing the number of examples. The potential of LLMs to accelerate workflows and improve user productivity makes further research in this area a promising avenue for innovation.
+
+---
+
 Run command "C:\Users\lanie\Desktop\COS IW10\miniwob-plusplus>http-server" in the terminal to start local server
-
-
-Show work at:
-"Filter file extensions" in ChatGPT
-"# TaskMate" 

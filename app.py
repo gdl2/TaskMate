@@ -26,11 +26,11 @@ import re
 import json
 
 import os
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = "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"
 
 # initialize pinecone
 pinecone.init(
-    api_key="",  # find at app.pinecone.io
+    api_key="258a5561-3828-4a8e-9807-ad8df86ef5be",  # find at app.pinecone.io
     environment="eu-west1-gcp"  # next to api key in console
 )
 index = pinecone.Index("cosiw-project")
